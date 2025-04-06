@@ -14,7 +14,7 @@ Git was originally designed to be used from the command line. If you like, you c
 
 If you have any questions. Please feel free to reach out to me on Canvas or come to my office hours.
 
-These instructions will be the same for all the assignments in this course.
+These instructions will be the same for all the assignments in this course. Please make a seperate repository for each assignment. They should be named in the format: Lastname-Firstname-110L-HW1 for the first assignment, and simply change the last number for assignments 2 through 5.
 
 **1. Create a Private Repository**
 
