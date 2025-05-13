@@ -1,0 +1,38 @@
+[
+    {
+	"starting_point": [7.4, 0]
+    },
+    {
+	"starting_point": [7.5, 0.1]
+    },
+    {
+	"starting_point": [7.5, -0.1]
+    },
+    {
+	"starting_point": [7.45, 0.1]
+    },
+    {
+	"starting_point": [7.45, -0.1]
+    },
+    {
+	"starting_point": [7.55, 0.1]
+    },
+    {
+	"starting_point": [7.55, -0.1]
+    },
+    {
+	"starting_point": [-7.55, 0.1],
+	"propogation_direction": "a"
+    },
+    {
+	"starting_point": [-7.55, -0.1],
+	"propogation_direction": "a"
+    },
+    {
+	"starting_point": [-7.55, 0.0],
+	"propogation_direction": "a"
+    },
+    {
+	"starting_point": [7.55, 0.0]
+    }
+] 
